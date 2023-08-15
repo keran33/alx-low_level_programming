@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * main - function to display text
+ * main - function to display putchar
  *
- * Return - is always 0
- *
+ * Return: is always 0
  */
 
 int main(void)
